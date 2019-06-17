@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+#imgslide{
+	height:600px;
+	width:800px;
+	overflow:hidden;
+	position:relative;
+}
+.imgs{
+	width:6000px;
+	position:absolute;
+}
+
+.imgs img{
+	float:left;
+}
+.imgsbar{
+	position:relative; /*이거안하면 점들 안보임*/
+	margin-top:20px; /*점들이 위에 띄우고 중간에 있게*/
+	margin-left:300px;
+}
+.imgsbar li{
+	float:left;
+	
+}
+ul{
+   list-style:none;
+   }
+
