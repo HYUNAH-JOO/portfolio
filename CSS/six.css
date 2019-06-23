@@ -2,8 +2,8 @@
 /* CSS Document */
 
 #imgslide{
-	height:364px;
-	width:547px;
+	height:600px;
+	width:600px;
 	overflow:hidden;
 	position:relative;
 }
@@ -18,7 +18,7 @@
 .imgsbar{
 	position:relative; /*이거안하면 점들 안보임*/
 	margin-top:20px; /*점들이 위에 띄우고 중간에 있게*/
-	margin-left:200px;
+	margin-left:100px;
 }
 .imgsbar li{
 	float:left;

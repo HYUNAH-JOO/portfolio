@@ -8,7 +8,18 @@ jQuery(document).ready(function(e) {
     });
 });
 
-
+var win;
+	function winOpen10(){
+		win=window.open('star.html','child()','width=520, height=520')
+	}
+var win;
+	function winOpen11(){
+		win=window.open('planet.html','child()','width=520, height=520')
+	}
+var win;
+	function winOpen12(){
+		win=window.open('moon.html','child()','width=520, height=520')
+	}	
 var win;
 	function winOpen(){
 		win=window.open('one.html','child()','width=900, height=620')
@@ -36,7 +47,7 @@ var win;
 	
 var win;
 	function winOpen6(){
-		win=window.open('six.html','child()','width=600, height=400')
+		win=window.open('six.html','child()','width=620, height=620')
 	}
 	
 var win;
